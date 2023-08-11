@@ -1,6 +1,11 @@
 # Text_File_Metadata
 📁 Extract metadata from .txt files and record the metadata in .txt files.
 #
+
+![Receipt 1](https://github.com/sourceduty/Text_File_Metadata/assets/123030236/6bb4d9db-0c8d-40eb-84c1-f3d1ff24f51e)
+
+![WordFrequency_First txt](https://github.com/sourceduty/Text_File_Metadata/assets/123030236/e6c4e78e-2875-414d-8de5-9e41c2410503)
+
 ```
 import os
 import sys
